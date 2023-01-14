@@ -1,0 +1,28 @@
+{
+  "name": "javascript-v8-engine-console",
+  "version": "1.0.0",
+  "description": "This is a JavaScript  🟨 to try the v8 ⚙️ engine to learning and improving how use this javascript engine",
+  "main": "index.js",
+  "scripts": {
+    "global-object": "node globalObject.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zearkiatos/javascript-v8-engine-console.git"
+  },
+  "keywords": [
+    "V8",
+    "Engine",
+    "JavaScript",
+    "NodeJS",
+    "Fundamentals",
+    "basic"
+  ],
+  "author": "Pedro Capriles <caprilespe@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zearkiatos/javascript-v8-engine-console/issues"
+  },
+  "homepage": "https://github.com/zearkiatos/javascript-v8-engine-console#readme"
+}
