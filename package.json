@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "global-object": "node globalObject.js",
+    "memory-heap": "node memoryHeap.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
