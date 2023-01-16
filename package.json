@@ -6,6 +6,7 @@
   "scripts": {
     "global-object": "node globalObject.js",
     "memory-heap": "node memoryHeap.js",
+    "call-stack": "node callStack.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
