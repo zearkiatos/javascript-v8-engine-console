@@ -2,6 +2,7 @@
 This is a JavaScript  🟨 to try the v8 ⚙️ engine to learning and improving how use this javascript engine
 
 ![Github](https://github.com/zearkiatos/javascript-v8-engine-console/actions/workflows/action.yml/badge.svg)
+![GitlabCI](https://gitlab.com/caprilespe/javascript-v8-engine-console/badges/develop/pipeline.svg)
 
 # Make with
 [![JavaScript](https://img.shields.io/badge/javascript-ead547?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)]()
