@@ -12,4 +12,4 @@ RUN npm install
 
 EXPOSE 3001
 
-CMD npm run global-object ; npm run memory-heap ; npm run call-stack
+CMD npm run global-object ; npm run memory-heap ; npm run call-stack; npm run stack-overflowku
