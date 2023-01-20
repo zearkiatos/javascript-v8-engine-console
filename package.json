@@ -10,6 +10,7 @@
     "garbage-collection": "node garbajeCollection.js",
     "stack-overflow": "node stackOverflow.js",
     "runtime": "node runtime.js",
+    "asynchronous": "node asynchronous.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
