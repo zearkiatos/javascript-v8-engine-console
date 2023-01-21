@@ -1,0 +1,15 @@
+language: node_js
+services:
+  - docker
+cache:
+  directories:
+    - ~/.npm
+node_js:
+  - '18'
+git:
+  depth: 3
+script:
+  - yarn install
+  - docker build . -t=javascript-v8-engine-console:travis-build-$TRAVIS_BUILD_NUMBER
+on:
+  branch: develop 
